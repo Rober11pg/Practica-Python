@@ -1,0 +1,5 @@
+# Primera pregutna
+print("El nombre de la cerverza\nes  '" + input("Cúal es tu color favorito?: ") + " " + input("Cúal es tu anime favorito?: ") + "'")
+
+
+
