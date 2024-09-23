@@ -21,4 +21,7 @@ print(frase.rindex("práctica"))
 
 print("frase 2")
 frase2 = "Hola mundo"
+
+# Es lo mismo que el index
 print(frase2.find("world"))
+
